@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Header from './components/header/header'
 import CharacterCard from './components/charCard'
 import './index.css'
-import characters from './characters.json'
+import characters from './Characters.json'
 import logo from './logo.svg';
 import './App.css';
 
@@ -32,9 +32,9 @@ class App extends Component {
         let correctGuess = false;
         const {characters} = this.state;
         const updatedCharacters = characters.map(characters => {
-          const updatedCharacters = {...character}
+          const updatedCharacter = {...character}
             if (updatedCharacter.name === name) {
-              if (updatedCharacters.selected === false) {
+              if (updatedCharacter.selected === false) {
                 updatedCharacter.selected = true;
                 correctGuess = true;
               }
