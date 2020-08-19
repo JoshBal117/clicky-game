@@ -8,7 +8,6 @@ const charCard = (props) => {
             </div>
         )
 
-
 }
 
 export default charCard;
