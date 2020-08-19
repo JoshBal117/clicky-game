@@ -85,7 +85,7 @@ class App extends Component {
                 <Header score={this.state.score} topScore={this.state.topScore} />
                 <div className="container">
                   <div className="row">
-                    {this.state.character.map((character) =>
+                    {this.state.characters.map((character) =>
                     <CharacterCard
                     key ={character.id}
                     id  ={character.id}
