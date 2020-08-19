@@ -76,6 +76,7 @@ class App extends Component {
 
       resetCharacters = (characters) => {
         const resetCharacters = characters.map(character => ({...character, selected: false}))
+        return(resetCharacters)
       }
 
       render(){
