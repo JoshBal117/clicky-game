@@ -18,7 +18,7 @@
         "name": "Ganon",
         "selected":false,
         "imageURL":"https://vignette.wikia.nocookie.net/zelda/images/1/1e/Ganon_Artwork_%28Ocarina_of_Time%29.png/revision/latest/scale-to-width-down/350?cb=20110828041255"
-    }
+    },
 
     {
         "id": 4,
@@ -81,5 +81,5 @@
         "name": "Malon",
         "selected":false,
         "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/9/98/Malon_Artwork_%28Ocarina_of_Time%29.png/revision/latest/scale-to-width-down/224?cb=20110507233419"
-    },
+    }
 ]
