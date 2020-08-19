@@ -3,83 +3,83 @@
         "id": 1, 
         "name": "Link", 
         "selected":false,
-        "imageURL":
-    },
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/5/57/Breath_of_the_Wild_Artwork_Link_%28Official_Artwork%29.png/revision/latest/scale-to-width-down/350?cb=20160623185226"
+      },
 
     {
         "id": 2,
-        "name": "",
+        "name": "Zelda",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/5/5f/Zelda_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/350?cb=20170306081400"
     },
 
     {
         "id": 3,
-        "name": "",
+        "name": "Ganon",
         "selected":false,
-        "imageURL":
+        "imageURL":"https://vignette.wikia.nocookie.net/zelda/images/1/1e/Ganon_Artwork_%28Ocarina_of_Time%29.png/revision/latest/scale-to-width-down/350?cb=20110828041255"
     }
 
     {
         "id": 4,
-        "name": "",
+        "name": "Revali",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/0/0e/Revali_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/350?cb=20170220194609"
     },
     
     {
         "id": 5,
-        "name": "",
+        "name": "Daruk",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/6/66/Daruk_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/350?cb=20170306075733"
     },
 
     {
         "id": 6,
-        "name": "",
+        "name": "Mipha",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/d/d9/Mipha_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/350?cb=20170306080925"
     },
 
     {
         "id": 7,
-        "name": "",
+        "name": "Urbosa",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/0/02/Urbosa_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/350?cb=20170306150602"
     },
 
     {
         "id": 8,
-        "name": "",
+        "name": "Shiek",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/6/69/Sheik_Artwork.png/revision/latest/scale-to-width-down/209?cb=20160729094552"
     },
 
     {
         "id": 9,
-        "name": "",
+        "name": "Great Deku Tree",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/7/77/Great_Deku_Tree_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/234?cb=20170308000836"
     },
 
     {
         "id": 10,
-        "name": "",
+        "name": "Navi",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20090319134157"
     },
 
     {
         "id": 11,
-        "name": "",
+        "name": "Gananondorf",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/0/05/Ganondorf_Artwork_%28Ocarina_of_Time%29.png/revision/latest/scale-to-width-down/254?cb=20110427012646"
     },
 
     {
         "id": 12,
-        "name": "",
+        "name": "Malon",
         "selected":false,
-        "imageURL":
+        "imageURL": "https://vignette.wikia.nocookie.net/zelda/images/9/98/Malon_Artwork_%28Ocarina_of_Time%29.png/revision/latest/scale-to-width-down/224?cb=20110507233419"
     },
 ]
